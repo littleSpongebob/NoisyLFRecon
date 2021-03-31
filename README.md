@@ -17,5 +17,5 @@
     ├── TCW_test_set.txt
     └── test_model.py
     ```
-- run "pip install -r requirement.txt" to install required package
+- run "pip install -r requirements.txt" to install required package
 - run "python3 test_model.py" to test model in "30sence" dataset
